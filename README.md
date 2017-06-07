@@ -5,6 +5,7 @@ Available for:
 - Confluent Kafka Connect
 - Confluent ZooKeeper
 - Confluent Control Center
+- Confluent Schema Registry
 
 ## Prerequisites
 
@@ -17,6 +18,7 @@ Available for:
   - /var/log/kafka
   - /var/log/zookeeper
   - /var/log/confluent-control-center
+  - /var/log/schema-registry
 - Set appropriate permissions
 
 ### Kafka Connect Log4j settings
